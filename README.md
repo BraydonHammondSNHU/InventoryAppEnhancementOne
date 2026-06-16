@@ -1,4 +1,4 @@
-# InventoryAppEnhancementOneNarrative
+# Inventory App Enhancement One Narrative
 
 Artifact Description
 
